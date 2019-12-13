@@ -3,8 +3,6 @@
 ![React version](https://img.shields.io/badge/react-16.6-green.svg)
 ![React Native version](https://img.shields.io/badge/react--native-0.57-blue.svg)
 
-Unofficial client for [TMDb](https://www.themoviedb.org/) created with [React Native](https://facebook.github.io/react-native/).
-
 
 ## Getting Started
 
